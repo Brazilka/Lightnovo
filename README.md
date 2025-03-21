@@ -17,12 +17,8 @@ For each `.png` image in the folder:
    - Histogram + KDE plot of particle areas
 7. **Exports** area data to a CSV file per sample.
 
-<!-- Image 1 -->
-<img src="https://github.com/user-attachments/assets/177cad95-c65a-434f-9485-f969540ae2dd" alt="S1_200x200um" width="200" />
-
-<!-- Image 2 -->
+<img width="200" alt="S0_200x200um" src="https://github.com/user-attachments/assets/fac9c098-832c-4810-8175-afe853cfc0e2" />
 <img src="https://github.com/user-attachments/assets/aeb5a32c-d963-4539-b612-5ce62855d83f" alt="Figure 2025-03-21" width="200" />
-
 <img src="https://github.com/user-attachments/assets/d68a3664-7778-4bbd-81f8-4c237897bea2" alt="Figure 2025-03-21" width="300" />
 
 
